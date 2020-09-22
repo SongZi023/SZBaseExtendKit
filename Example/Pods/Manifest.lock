@@ -1,0 +1,16 @@
+PODS:
+  - SZBaseExtendKit (0.1.0)
+
+DEPENDENCIES:
+  - SZBaseExtendKit (from `../`)
+
+EXTERNAL SOURCES:
+  SZBaseExtendKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SZBaseExtendKit: bcf3bace7ac741bdb1df56c6633b6f11879ccbd3
+
+PODFILE CHECKSUM: ac2e72e193ed1f59e90567554e8fe2374a4c0f06
+
+COCOAPODS: 1.9.3

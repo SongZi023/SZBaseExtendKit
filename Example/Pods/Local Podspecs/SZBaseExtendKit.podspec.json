@@ -1,0 +1,22 @@
+{
+  "name": "SZBaseExtendKit",
+  "version": "0.1.0",
+  "summary": "OC中，常用的基础扩展类",
+  "description": "OC中，常用的基础扩展类。如NSString，UIView，NSDictionary等等",
+  "homepage": "https://github.com/SongZi023",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "w0231357129@163.com": "w0231357129@163.com"
+  },
+  "source": {
+    "git": "https://github.com/SongZi023/SZBaseExtendKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SZBaseExtendKit/Classes/**/*"
+}
