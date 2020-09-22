@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SZBaseExtendKit_Example' do
+  pod 'SZBaseExtendKit', :path => '../'
+
+  target 'SZBaseExtendKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
